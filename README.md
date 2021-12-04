@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SofiaMarchinskaya
 - 👀 I’m interested in dart/java/kotlin/c++
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
